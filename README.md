@@ -9,9 +9,11 @@ once internet connection is restored.
 
 ## Built With
 
+* JAVASCRIPT
 * HTML
 * CSS
-* JAVASCRIPT
+
+
 
 ## Website
 https://lusbudget-tracker.herokuapp.com/
